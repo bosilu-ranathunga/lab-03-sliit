@@ -1,0 +1,20 @@
+{
+  "name": "lab-03-sliit",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/bosilu-ranathunga/lab-03-sliit#readme",
+  "bugs": {
+    "url": "https://github.com/bosilu-ranathunga/lab-03-sliit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bosilu-ranathunga/lab-03-sliit.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
